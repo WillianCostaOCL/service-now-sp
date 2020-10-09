@@ -1,2 +1,2 @@
-# service-now-sp
- Specialized servicenow developments
+# ServiceNow Service Portal Developments
+ Specialized servicenow components
