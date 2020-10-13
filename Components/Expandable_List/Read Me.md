@@ -12,11 +12,11 @@ It is a list that, when you click on a row, the data expands, presenting more fi
 
 ### Gallery
 
-[![Compressed List](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_crompressed.png)
+[!Compressed List](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_crompressed.png)
 
-[![Expanded list](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_expanded.png)
+[!Expanded list](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_expanded.png)
 
-[![Loading](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_loading.png)
+[!Loading](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_loading.png)
 
-[![Options](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_options.png)
+[!Options](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Expandable_List/exp_list_options.png)
 
