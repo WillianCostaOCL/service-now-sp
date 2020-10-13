@@ -11,5 +11,5 @@ Whit it you can edit, create or just view records.
 - Finally, use the modal!!
 
 ### Gallery
-![Button](https://github.com/MAnzolin/ServiceNow-Functions/blob/master/Components/Modal%20-%20Form/button.png)
-![Form](https://github.com/MAnzolin/ServiceNow-Functions/blob/master/Components/Modal%20-%20Form/form.png)
+![Button](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Modal_Form/modal_button.png)
+![Form](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Modal_Form/modal_form.png)
