@@ -9,7 +9,6 @@ This type of list provides task relatedness levels based on relationship between
 
 ### Gallery
 ![Drill_Down](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Drill%20Down%20List/drill_down_list_closed.png)
-![Drill_Down](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Drill%20Down%20List/drill_down_list_open_level_1.png)
 ![Drill_Down](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Drill%20Down%20List/drill_down_list_open_level_2.png)
 
 
