@@ -186,6 +186,5 @@ Main functions to generate drilldown
   ```
  
 ### Gallery
-![Drill_Down](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Drill%20Down%20List/drill_down_list_closed.png)
-![Drill_Down](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Drill%20Down%20List/drill_down_list_open_level_2.png)
+![Drill_Down](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Drill%20Down%20List/Drill_Down.gif)
 
