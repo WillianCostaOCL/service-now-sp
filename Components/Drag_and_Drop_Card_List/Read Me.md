@@ -2,12 +2,18 @@
 
 This type of list in card format offers a differentiated display, with the possibility of ordering items in a customized way
 
+
 ### Options
 
 - Table: the table that you will get the data
 - Filter:  query filter to display records
 - Fields: Fields to display
 
+
+# how to implement
+
+1 - Import and Commit the Update set: "Drag and Drop Update Set"
+2 - Search the widget with name: "OCL: Card List Records"
 
 # Development
 
@@ -24,15 +30,15 @@ Client Side:
     //  Action when moving cards, update list with new order
 
     $scope.$on('change.order.list', function(event, data){
-	c.server.get({action: 'UPDATE','records' : data}).then(function(r){
-		c.data.list = r.data.list;
+		c.server.get({action: 'UPDATE','records' : data}).then(function(r){
+			c.data.list = r.data.list;
+		});
 	});
-    });
 ```
 
 Server side: Main functions
 ```JAVASCRIPT
-    	data.table = options.table;
+    data.table = options.table;
 	data.field_list = options.field_list;
 
 	if(input && input.action == 'UPDATE')
@@ -117,3 +123,7 @@ function () {
 	}
 };
 ```
+
+# Gallery
+![Drag_and_Drop](https://github.com/WillianCostaOCL/service-now-sp/blob/main/Components/Drag_and_Drop_Card_List/Drag_and_Drop_example.gif)
+
