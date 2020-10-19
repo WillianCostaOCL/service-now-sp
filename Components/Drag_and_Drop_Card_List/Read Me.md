@@ -24,15 +24,15 @@ Client Side:
     //  Action when moving cards, update list with new order
 
     $scope.$on('change.order.list', function(event, data){
-		c.server.get({action: 'UPDATE','records' : data}).then(function(r){
-			c.data.list = r.data.list;
-		});
+	c.server.get({action: 'UPDATE','records' : data}).then(function(r){
+		c.data.list = r.data.list;
 	});
+    });
 ```
 
 Server side: Main functions
 ```JAVASCRIPT
-    data.table = options.table;
+    	data.table = options.table;
 	data.field_list = options.field_list;
 
 	if(input && input.action == 'UPDATE')
