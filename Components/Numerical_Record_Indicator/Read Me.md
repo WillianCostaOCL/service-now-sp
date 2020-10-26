@@ -20,7 +20,7 @@ Component that returns a record count from a table
 	@param {String} [filter] -  Filtro a ser aplicado
 	@example
 		
-		var count = new ITBMPortalUtilsv2().getRecordCount('incident', 'active=true');
+		var count = new YOUR_SCRIPT_INCLUDE().getRecordCount('incident', 'active=true');
 		
 		//Output
 		20
