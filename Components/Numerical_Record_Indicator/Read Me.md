@@ -13,6 +13,20 @@ Component that returns a record count from a table
 
 ```JAVASCRIPT
 
+/**SNDOC
+	@name getRecordCount
+	@description Retorna uma contagem de registros
+	@param {String} [table] - Tabela a ser consultada
+	@param {String} [filter] -  Filtro a ser aplicado
+	@example
+		
+		var count = new ITBMPortalUtilsv2().getRecordCount('incident', 'active=true');
+		
+		//Output
+		20
+	
+	*/
+
 getRecordCount: function(table, filter){
 		var ga = new GlideAggregate(table);
 		ga.addAggregate('COUNT');
