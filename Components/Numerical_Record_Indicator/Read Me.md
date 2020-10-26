@@ -7,7 +7,9 @@ Component that returns a record count from a table
 
 ## STEP
 
-1 - Create or use a Script include to add 'getRecordCount' function
+1 - Download and import the Component XML in your instance
+
+2 - Create or use a Script include to add 'getRecordCount' function
 
 ```JAVASCRIPT
 
@@ -24,7 +26,7 @@ getRecordCount: function(table, filter){
 ```
 
 
-2 - Add your Script Include in component (Server Script)
+3 - Add your Script Include in component (Server Script)
 
 
 ```JAVASCRIPT
